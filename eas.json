@@ -1,0 +1,18 @@
+{
+  "build": {
+    "device": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "device2": {
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      }
+    },
+    "device3": {
+      "developmentClient": true
+    },
+    "production": {}
+  }
+}
