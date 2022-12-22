@@ -3,7 +3,7 @@
 
 # Trabalho da matéria de dispositivos móves Fatec - 4°DSM
 
-### Aplicativo voltado ao suprote de igrejas, com um aplicativo simples de criação de pedidos de oração e eventos religiosos
+### Aplicativo voltado ao suporte de igrejas, com um aplicativo simples de criação de pedidos de oração e eventos religiosos
 
 ![image](https://user-images.githubusercontent.com/78803504/205467906-1db4dfb0-10e7-4e3e-aace-54fb8fa68295.png)
 
